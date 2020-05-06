@@ -103,6 +103,7 @@
              Windowtitle="${ant.project.name} ${version}">
       <classpath refid="build.classpath"/>
     </javadoc>
+<!--            <arg value="--armor"/> -->
   </target>
 
   <target name="format" description="Run the indenter on all source files.">
