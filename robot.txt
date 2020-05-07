@@ -2,4 +2,10 @@ file we are inserting for the first time into remote
 adding new change.
 second line included with ssh key
 third line added.
+<<<<<<< HEAD
 last line for git diff remote to local.
+=======
+new line added in robot file.
+aneaa;kjalkja;dffja;lk a;dfja;ldkfja;lkjfk
+new alskdfja;sdkfj line added at the end.
+>>>>>>> develop
