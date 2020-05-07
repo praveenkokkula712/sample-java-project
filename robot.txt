@@ -6,6 +6,6 @@ new line added in robot file.
 aneaa;kjalkja;dffja;lk a;dfja;ldkfja;lkjfk
 new alskdfja;sdkfj line added at the end.
 
-
+fast forward merge commit.
 fast forward merge commit.
 confilcts resloved.
