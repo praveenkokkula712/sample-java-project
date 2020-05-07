@@ -14,3 +14,6 @@ fast forward merge commit.
 fast forward merge commit.
 confilcts resloved.
 final inspection.
+3 way merge checking.
+creating a merge conflict.
+removing merge conflict.
