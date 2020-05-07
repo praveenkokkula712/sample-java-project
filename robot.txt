@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 first line added.
+=======
+second line included.
+a;dfklja;dlskfj
+econd line included with ssh key
+>>>>>>> develop
 third line added.
 new line added in robot file.
 aneaa;kjalkja;dffja;lk a;dfja;ldkfja;lkjfk
